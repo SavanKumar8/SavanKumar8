@@ -26,6 +26,14 @@
 
 ---
 
+### 🛠 Projects I'm Proud Of
+- 🔗 [Kanban Board](https://github.com/yourrepo): A React+Tailwind Kanban with drag-and-drop
+- 🔗 [SvelteKit Blog](https://github.com/yourrepo): Blazing fast SSG blog using SvelteKit
+
+
+---
+
+
 ### 📈 GitHub Stats
 
 ![Savan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavanKumar8&show_icons=true&theme=tokyonight&hide=prs)
